@@ -15,4 +15,5 @@ Android application with custom arc design
 
 Inspired by: [Stevdza-San](https://www.youtube.com/@StevdzaSan)
 
-![CHEESE!](https://github.com/zeshansahi/CustomUiWithCompose/blob/main/app/src/main/res/drawable/screenshot.png) 
+
+<a href="url"><img src="https://github.com/zeshansahi/CustomUiWithCompose/blob/main/app/src/main/res/drawable/screenshot.png" align="left" height="790" width="480" ></a>
