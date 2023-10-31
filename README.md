@@ -13,8 +13,6 @@ Android application with custom arc design
 ### Demo:
 
 
-Inspired by: [Stevdza-San](https://www.youtube.com/@StevdzaSan)
-
-![CHEESE!](https://github.com/zeshansahi/CustomUiWithCompose/blob/main/app/src/main/res/drawable/screenshot.png) 
+Inspired by: [Stevdza-San](https://www.youtube.com/@StevdzaSan) 
 
 <img src="https://github.com/zeshansahi/CustomUiWithCompose/blob/main/app/src/main/res/drawable/screenshot.png" height="400" alt="Screenshot"/>
